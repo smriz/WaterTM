@@ -1,4 +1,4 @@
-# WaterTM
+# Aqua Siren
 Its a water level monitoring and controlling android app.
 The App needed to be paired to a hardware kit via bluetooth to read values from the source.
 This app has a feature to switch between automatic and manual mode.
